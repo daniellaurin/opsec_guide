@@ -23,7 +23,7 @@ Use a password manager (Bitwarden)
 ~ Cloud base password manager "bitwarden"
 
 Password Generator 
-64bits - 70bits+ of enthropy is preferable 
+64bits - 70bits + of enthropy is preferable 
 
 I don't like passphrasses like "margaretthatcheris110%SEXY" is they are prone to dictionary attacks 
 
@@ -64,7 +64,15 @@ FileSharing => Syncthing
 Google Photos => PhotoPrism
 Search Engine => SearX / Brave 
 
+## Anonymous guide ## 
 
+### Legend ###
+
+| Symbol | Meaning         |
+|--------|-----------------|
+| ✔️      | Completed       |
+| ✏️      | To be completed |
+| ❌     | Postponed       |
 
 ### Zone 1 ###
 
@@ -77,14 +85,14 @@ Search Engine => SearX / Brave
 | Use 2FA on available services    | ✔️      |
 | Disable Google tracking          | ✔️      |
 | Remove unused accounts           | ✔️      |
-| Utilize video social media rule  | ✔️      |
-| Use a trusted VPN                |        |
-| Use encrypted messaging          |        |
+| good practice social media use   | ✔️      |
+| Use a trusted VPN                | ✏️      |
+| Use encrypted messaging          | ✏️      |
 | Use encrypted email              | ✔️      |
 | Use trusted web extensions       | ✔️      |
 | Use a privacy search engine      | ✔️      |
 | Frequently clear browser data    | ✔️      |
-| Opt out of phone tracking        |        |
+| Opt out of phone tracking        | ❌     |
 | Disable unused phone radios      | ✔️      |
 | Disable unused phone features    | ✔️      |
 | Opt out of computer tracking     | ✔️      |
@@ -93,8 +101,8 @@ Search Engine => SearX / Brave
 | Clear device temporary data      | ✔️      |
 | Shred files & data               | ✔️      |
 | Backup your data                 | ✔️      |
-| Avoid public computers           |        |
-| Avoid IOT & Smart Devices        |        |
+| Avoid public computers           | ✔️      |
+| Avoid IOT & Smart Devices        | ❌     |
 | Utilize a safe & shredder        | ✔️      |
 
 ---
@@ -103,23 +111,23 @@ Search Engine => SearX / Brave
 
 | Action                              | Status |
 |-------------------------------------|--------|
-| Disable all biometric               |        |
-| Delete Google altogether            | *      |
-| Utilize pseudonyms                  | *      |
-| Use private phone number (VoIP)     |        |
-| Delete personal social media        | *      |
+| Disable all biometric               | ❌     |
+| Delete Google altogether            | ✏️      |
+| Utilize pseudonyms                  | ✏️      |
+| Use private phone number (VoIP)     | ❌     |
+| Delete personal social media        | ✏️      |
 | Use video private/secure browsers   | ✔️      |
 | Utilize multiple browsers           | ✔️      |
 | Move to FOSS                        | ✔️      |
-| Ditch type 1 Android                |        |
-| Protect computer BIOS               |        |
-| Use full disk encryption            |        |
-| Spoof MAC address                   |        |
+| Ditch type 1 Android                | ❌     |
+| Protect computer BIOS               | ✏️      |
+| Use full disk encryption            | ❌     |
+| Spoof MAC address                   | ✏️      |
 | Strip OS telemetry/functionality    | ✔️      |
 | Ditch Windows                       | ✔️      |
-| Delete file metadata & EXIF         |        |
-| Use cable locks & intrusion devices |        |
-| Use privacy screen protectors       |        |
+| Delete file metadata & EXIF         | ✏️      |
+| Use cable locks & intrusion devices | ❌     |
+| Use privacy screen protectors       | ❌     |
 | Use camera covers                   | ✔️      |
 
 ---
@@ -129,13 +137,13 @@ Search Engine => SearX / Brave
 | Action                           | Status |
 |----------------------------------|--------|
 | Clean your digital footprint     | ✔️      |
-| Delete social media              |        |
+| Delete social media              | ❌     |
 | Utilize hardened browsers        | ✔️      |
-| Use Custom ROMs/Dumb Phones      |        |
+| Use Custom ROMs/Dumb Phones      | ❌     |
 | Use Private/Secure Desktop OS(s) | ✔️      |
-| Shop privately                   |        |
-| Physically remove cameras/mics   |        |
-| Avoid facial recognition/AI      |        |
+| Shop privately                   | ❌     |
+| Physically remove cameras/mics   | ❌     |
+| Avoid facial recognition/AI      | ❌     |
 
 
 
